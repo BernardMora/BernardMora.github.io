@@ -1,0 +1,10 @@
+        {/* <a href="https://www.flaticon.es/iconos-gratis/requisito" title="requisito iconos">Requisito iconos creados por Freepik - Flaticon</a> */}
+<a href="https://www.flaticon.es/iconos-gratis/resultado" title="resultado iconos">Resultado iconos creados por Freepik - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/diseno-grafico" title="diseño gráfico iconos">Diseño gráfico iconos creados por Flat Icons - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/desarrollo-de-software" title="desarrollo de software iconos">Desarrollo de software iconos creados por juicy_fish - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/prueba" title="prueba iconos">Prueba iconos creados por iconixar - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/despliegue" title="despliegue iconos">Despliegue iconos creados por Freepik - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/equipo" title="equipo iconos">Equipo iconos creados por srip - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/universo" title="universo iconos">Universo iconos creados por smalllikeart - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/filosofia" title="filosofía iconos">Filosofía iconos creados por kmg design - Flaticon</a>
+<a href="https://www.flaticon.es/iconos-gratis/aplicacion-movil" title="aplicación movil iconos">Aplicación movil iconos creados por surang - Flaticon</a>
