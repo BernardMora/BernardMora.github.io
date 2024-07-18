@@ -1,15 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.65771b4f.css",
-    "main.js": "/static/js/main.9f74d410.js",
+    "main.css": "/static/css/main.ed399d29.css",
+    "main.js": "/static/js/main.8fe62169.js",
     "static/js/453.026dd0b6.chunk.js": "/static/js/453.026dd0b6.chunk.js",
+    "static/media/bernardo.png": "/static/media/bernardo.c128027ab3cf246441b4.png",
+    "static/media/Constancia_Delfin.pdf": "/static/media/Constancia_Delfin.717890737ed8624a39e7.pdf",
+    "static/media/CS50x.pdf": "/static/media/CS50x.d28f2adc2cefe23c7fa0.pdf",
+    "static/media/IBM Data Science.pdf": "/static/media/IBM Data Science.2cc5b5a145335df99dfb.pdf",
+    "static/media/CV English.pdf": "/static/media/CV English.db7772c076bc46188948.pdf",
+    "static/media/Qiskit Global Summer School.pdf": "/static/media/Qiskit Global Summer School.be44038bc3b0abd75427.pdf",
+    "static/media/software.png": "/static/media/software.2f3fa60ff7a10879d1a6.png",
+    "static/media/orbit.png": "/static/media/orbit.0e03f7b3ca730df2e501.png",
+    "static/media/neural-newtork.png": "/static/media/neural-newtork.175385b6141614c935cb.png",
+    "static/media/philosophy.png": "/static/media/philosophy.679455f5c16f07baacba.png",
+    "static/media/wave-hello.gif": "/static/media/wave-hello.85fc89010c79d09e41bd.gif",
+    "static/media/maintenance.png": "/static/media/maintenance.ebc87ec54e89e0bfadf6.png",
+    "static/media/analysis.png": "/static/media/analysis.2ee59fc685e206cd5a9f.png",
+    "static/media/design.png": "/static/media/design.f8d93136fff7844874da.png",
+    "static/media/testing.png": "/static/media/testing.398fe02fedba8d7688a4.png",
+    "static/media/requirements.png": "/static/media/requirements.befc0437555787fcc971.png",
+    "static/media/development.png": "/static/media/development.5e61e88ade79b91a1cdb.png",
+    "static/media/deployment.png": "/static/media/deployment.cd83b63c0379c19fb5c2.png",
+    "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.65771b4f.css.map": "/static/css/main.65771b4f.css.map",
-    "main.9f74d410.js.map": "/static/js/main.9f74d410.js.map",
+    "main.ed399d29.css.map": "/static/css/main.ed399d29.css.map",
+    "main.8fe62169.js.map": "/static/js/main.8fe62169.js.map",
     "453.026dd0b6.chunk.js.map": "/static/js/453.026dd0b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65771b4f.css",
-    "static/js/main.9f74d410.js"
+    "static/css/main.ed399d29.css",
+    "static/js/main.8fe62169.js"
   ]
 }
