@@ -1,0 +1,25 @@
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate {
+  animation: fadeInLeft 1s forwards;
+}
+
+.card-img-top {
+  object-fit: contain;
+  max-height: 200px;
+}
+
+@media (max-width: 576px) {
+  .card-img-top {
+    max-height: 150px;
+  }
+}
