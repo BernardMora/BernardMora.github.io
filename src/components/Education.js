@@ -150,22 +150,22 @@ function Education() {
         </Row>
 
         <h1 className="text-4xl font-bold py-5">Certificates</h1>
-        <Row xs={1} sm={2} md={4} className="g-4">
+        <Row xs={1} md={4} className="g-4">
           {certificates.map((certificate, idx) => (
             <Col key={idx}>
-              <Card className="h-100">
-                <Card.Header className="w-auto h-auto">
-                  {" "}
+              <Card className="h-100 flex flex-col">
+                <div className="h-1/3 flex items-center justify-center">
                   <Card.Img
                     variant="top"
                     src={certificate.img}
-                    className="card-img-top px-4 py-4"
+                    className="object-contain p-4"
                   />
-                </Card.Header>
-                <div className="place-content-center w-2/3"></div>
-                <Card.Body>
-                  <Card.Title>{certificate.name}</Card.Title>
-                  <Card.Text>{certificate.description}</Card.Text>
+                </div>
+                <div className="h-2/3 p-4 flex flex-col justify-between">
+                  <div>
+                    <Card.Title>{certificate.name}</Card.Title>
+                    <Card.Text>{certificate.description}</Card.Text>
+                  </div>
                   <Button
                     variant="outline-primary"
                     onClick={() =>
@@ -174,7 +174,7 @@ function Education() {
                   >
                     View Certificate
                   </Button>
-                </Card.Body>
+                </div>
               </Card>
             </Col>
           ))}
