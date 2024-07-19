@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed399d29.css",
-    "main.js": "/static/js/main.8fe62169.js",
+    "main.css": "/static/css/main.91bb0068.css",
+    "main.js": "/static/js/main.53452d46.js",
     "static/js/453.026dd0b6.chunk.js": "/static/js/453.026dd0b6.chunk.js",
     "static/media/bernardo.png": "/static/media/bernardo.c128027ab3cf246441b4.png",
     "static/media/Constancia_Delfin.pdf": "/static/media/Constancia_Delfin.717890737ed8624a39e7.pdf",
@@ -21,14 +21,15 @@
     "static/media/requirements.png": "/static/media/requirements.befc0437555787fcc971.png",
     "static/media/development.png": "/static/media/development.5e61e88ade79b91a1cdb.png",
     "static/media/deployment.png": "/static/media/deployment.cd83b63c0379c19fb5c2.png",
+    "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "static/media/java.png": "/static/media/java.6c64373d3b7415758078.png",
     "index.html": "/index.html",
-    "main.ed399d29.css.map": "/static/css/main.ed399d29.css.map",
-    "main.8fe62169.js.map": "/static/js/main.8fe62169.js.map",
+    "main.91bb0068.css.map": "/static/css/main.91bb0068.css.map",
+    "main.53452d46.js.map": "/static/js/main.53452d46.js.map",
     "453.026dd0b6.chunk.js.map": "/static/js/453.026dd0b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed399d29.css",
-    "static/js/main.8fe62169.js"
+    "static/css/main.91bb0068.css",
+    "static/js/main.53452d46.js"
   ]
 }
