@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import javaIcon from "../assets/img/java.png";
+import usFlag from "../assets/img/us-flag.png";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Skills.css"; // Custom CSS for animations
@@ -120,7 +121,7 @@ function Skills() {
     },
     {
       name: "English: Advanced",
-      link: "https://m.media-amazon.com/images/I/51XSXMvcp0L._AC_UF894,1000_QL80_.jpg",
+      link: usFlag,
     },
   ];
 
