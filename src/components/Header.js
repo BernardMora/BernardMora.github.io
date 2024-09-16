@@ -6,7 +6,7 @@ import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
 
 function Header() {
-  const cvPath = require("../assets/files/CV English.pdf");
+  const cvPath = require("../assets/files/Resume English.pdf");
 
   const handleDownload = (src, fileName) => {
     const link = document.createElement("a");
@@ -34,7 +34,7 @@ function Header() {
             <Nav.Link href="#education">Education</Nav.Link>
             <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
-          <Button onClick={() => handleDownload(cvPath, 'Bernardo Morales CV.pdf')} variant="outline-primary">Download CV</Button>
+          <Button onClick={() => handleDownload(cvPath, 'Bernardo Morales Resume.pdf')} variant="outline-primary">Resume</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>

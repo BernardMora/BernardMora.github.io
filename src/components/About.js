@@ -16,7 +16,7 @@ function About() {
   const [softwareRef, softwareInView] = useInView(options);
 
   return (
-    <section className="bg-white text-black py-20 pt-28 pb-14">
+    <section id="about" className="bg-white text-black py-20 pt-28 pb-14">
       <Container>
         <h2 className="text-3xl font-bold">Who am I?</h2>
 
@@ -24,7 +24,7 @@ function About() {
           <Col className="" md={8}>
             <div className="pr-5 text-left">
               <p className="mt-4">
-                I’m a Mexican 20 year old, currently in the 7th semester of my
+                I’m a 20 year old Mexican, currently in the 7th semester of my
                 Software Engineer career. I am a{" "}
                 <span className="font-bold">creative</span>,{" "}
                 <span className="font-bold">flexible</span>,{" "}

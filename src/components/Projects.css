@@ -1,0 +1,25 @@
+.scrollable-container {
+  max-height: 600px; /* Adjust the height based on your needs */
+  overflow-y: auto;
+  padding-right: 15px; /* Add some padding for scrollbar spacing */
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0.8); /* Start smaller */
+    opacity: 0; /* Invisible */
+  }
+  to {
+    transform: scale(1); /* End at normal size */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+.modal-content {
+  animation: zoomIn 0.4s ease-in-out;
+}
+
+.carousel-fixed-image {
+  object-fit: contain;
+  background-color: #f5f5f5;
+}

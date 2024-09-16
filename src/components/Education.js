@@ -128,7 +128,6 @@ function Education() {
               />
               <Card.Body>
                 <Row>
-                  <Card.Text className="pt-2">Upcoming...</Card.Text>
                   <Col xs={7}>
                     <Card.Title>University of Miami (UM)</Card.Title>
                   </Col>
@@ -140,9 +139,12 @@ function Education() {
                   </Col>
                 </Row>
                 <Card.Text className="pt-2">
-                  I will be studying the 7th semester of my Software Engineer
-                  career as an exchange student in UM in the semester of Fall
-                  2024.
+                  I am currently studying the 7th semester of my Software Engineer
+                  degree as an exchange student at UM. 
+                  - Software Engineering
+                  - Machine Learning
+                  - Neural Networks
+                  - Algortihms -
                 </Card.Text>
               </Card.Body>
             </Card>
