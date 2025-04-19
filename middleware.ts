@@ -23,6 +23,11 @@ function getLocale(request: NextRequest): string {
 }
 
 export function middleware(request: NextRequest) {
+  // Skip middleware during static export
+  if (process.env.NEXT_PHASE === "phase-export") {
+    return
+  }
+
   const pathname = request.nextUrl.pathname
 
   // Check if there is any supported locale in the pathname

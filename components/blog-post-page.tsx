@@ -12,7 +12,6 @@ import Header from "@/components/header";
 import Footer from "@/components/footer";
 import { type BlogPost } from "@/lib/i18n/blogPosts";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
-import { type SupportedLanguages } from "@/lib/i18n/languages";
 import { type BlogPostContent } from "@/lib/i18n/blogPosts";
 
 export default function BlogPostPage({
@@ -24,7 +23,7 @@ export default function BlogPostPage({
 }: {
   blogPost: BlogPost;
   posts: BlogPost[];
-  lang: SupportedLanguages;
+  lang: string;
   slug: string;
   dictionary: Dictionary;
 }) {
