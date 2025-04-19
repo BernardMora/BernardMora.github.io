@@ -1,0 +1,114 @@
+{
+  "navigation": {
+    "about": "关于我",
+    "projects": "项目",
+    "skills": "技能",
+    "education": "教育",
+    "blog": "博客",
+    "testimonials": "推荐",
+    "contact": "联系",
+    "resume": "简历"
+  },
+  "hero": {
+    "greeting": "你好，我是Bernardo Morales",
+    "roles": ["软件工程师", "学生和研究员", "问题解决者"],
+    "description": "平衡学术好奇心与专业经验。我在软件工程和人工智能的交叉点构建创新解决方案。",
+    "viewWork": "查看我的作品",
+    "getInTouch": "联系我"
+  },
+  "about": {
+    "title": "关于我",
+    "subtitle": "",
+    "description1": "我是一名 21 岁的墨西哥软件工程专业学生，目前就读于第八学期。我努力在学术学习、职业发展和创业兴趣之间取得平衡。我认为自己是一个富有创造力、适应力强、纪律性高，并具备扎实批判性思维能力的人。我是一名20岁的墨西哥软件工程学生，目前在第7学期，平衡学术追求和专业创业，作为人工智能代理所有者。我认为自己具有创造力、灵活性、纪律性和批判性思维。",
+    "description2": "我相信持续学习和成长的力量，始终从周围优秀的人那里寻求知识。每一天都带来新的机会，我努力识别并抓住它们，同时创造自己的前进道路。",
+    "description3": "我的兴趣范围从科学和人类行为到经济和政治，但我真正的热情在于技术、人工智能、理论物理和哲学。",
+    "aiEnthusiast": {
+      "title": "人工智能爱好者",
+      "description": "热衷于神经网络、机器学习和人工智能技术的未来。"
+    },
+    "softwareEngineer": {
+      "title": "软件工程师",
+      "description": "构建稳健、可扩展的解决方案，专注于清晰架构和用户体验。"
+    },
+    "physicsEnthusiast": {
+      "title": "物理学爱好者",
+      "description": "对我们对现实的理解和支配宇宙的基本规律着迷。"
+    },
+    "philosophicalThinker": {
+      "title": "哲学思想家",
+      "description": "通过批判性思维探索存在、知识和伦理的深层问题。"
+    }
+  },
+  "projects": {
+    "title": "我的项目",
+    "subtitle": "展示我在网络开发、数据科学、人工智能等领域的工作。",
+    "all": "全部",
+    "web": "网络",
+    "ai": "人工智能/机器学习",
+    "data": "数据",
+    "games": "游戏",
+    "learnMore": "了解更多",
+    "technologies": "技术",
+    "details": "详情",
+    "github": "GitHub",
+    "liveDemo": "在线演示",
+    "privateProject": "私人项目"
+  },
+  "skills": {
+    "title": "技能与专长",
+    "subtitle": "我在各个领域的技术技能的全面概述。",
+    "programming": "编程",
+    "pythonStack": "Python技术栈",
+    "web": "网络",
+    "databases": "数据库",
+    "languages": "语言"
+  },
+  "education": {
+    "title": "教育与认证",
+    "subtitle": "塑造我专业知识的学术旅程和专业认证。",
+    "academicInstitutions": "学术机构",
+    "certifications": "认证",
+    "viewCertificate": "查看证书"
+  },
+  "blog": {
+    "title": "博客与见解",
+    "subtitle": "分享我在技术、软件和人工智能方面的想法、研究和经验。",
+    "readMore": "阅读更多",
+    "viewAllPosts": "查看所有文章",
+    "searchPlaceholder": "搜索文章...",
+    "noPostsFound": "未找到文章",
+    "tryAdjusting": "尝试调整搜索或过滤条件",
+    "clearFilters": "清除过滤器",
+    "featuredPosts": "精选文章",
+    "relatedArticles": "相关文章",
+    "backToHome": "返回首页",
+    "backToBlog": "返回博客"
+  },
+  "testimonials": {
+    "title": "推荐",
+    "subtitle": "同事、教授和客户对与我合作的评价。"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "有问题或想一起工作？请随时联系！",
+    "contactInfo": "联系信息",
+    "contactInfoDes": "请随时通过以下任一渠道与我联系",
+    "connectWithMe": "与我联系",
+    "sendMessage": "给我发消息",
+    "sendMessageDes": "我会尽快回复你",
+    "messageSent": "消息已发送！",
+    "thankYou": "感谢您的联系。我会尽快回复您。",
+    "name": "姓名",
+    "email": "电子邮件",
+    "message": "消息",
+    "yourName": "您的姓名",
+    "yourEmail": "您的电子邮件地址",
+    "yourMessage": "您的消息",
+    "sending": "发送中...",
+    "send": "发送消息"
+  },
+  "footer": {
+    "description": "软件工程师，专注于技术与创新交汇处的终身学习者",
+    "rights": "保留所有权利。"
+  }
+}

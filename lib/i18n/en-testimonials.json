@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Mauricio Sánchez Herrera",
+    "role": "Researcher and Professor, Faculty of Engineering UABC",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "The recommender, a teacher who has known and taught Bernardo for several years, praises his curiosity, reliability, and motivation to exceed expectations both in class and in extracurricular projects. Bernardo actively pursues additional opportunities like international exchanges and is highly recommended for any challenge due to his consistent dedication and drive to go above and beyond."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Francisco Hoffman",
+    "role": "Researcher and Professor, Faculty of Engineering UABC",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "He has international experience from a semester at the University of Miami, strong technical and programming skills, and research experience using neural networks for stock market prediction. He’s currently working on a DNA analysis automation project. Alongside his technical abilities, he’s also recognized for his leadership, teamwork, and social skills."
+  },
+  {
+    "id": 3,
+    "name": "Omar Alejandro Pérez",
+    "role": "Student, Universidad Politécnica de Victoria",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "Bernardo was a key contributor to a quantum computing research project at CIC-IPN, excelling in mathematical formulation and clear communication of ideas. He also expanded the team's network through JA Mexico. Now studying at the University of Miami, he’s expected to achieve continued success in graduate studies thanks to his passion and technical skills."
+  }
+]

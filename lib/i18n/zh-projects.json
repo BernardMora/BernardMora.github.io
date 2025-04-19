@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "IronWine 酒窖系统",
+    "description": "用于管理 IronWine 酒窖公司业务流程的网页应用系统。",
+    "image": "/img/iwc/1-ironwine-system.png",
+    "category": "网页",
+    "tags": ["React", "Flask", "PostgreSQL", "Docker"],
+    "details": "为了满足 IronWine 酒窖公司的业务需求而开发的系统。处理客户报价、订单和数据管理。\n 使用 Figma 进行设计。前端：React、Bootstrap、TailwindCSS。后端：Flask，面向对象的 Python。数据库：PostgreSQL。部署：Ubuntu 云服务器（Vultr），Docker 容器化，HTTPS 协议通过 Nginx 实现。",
+    "link": null,
+    "github": null,
+    "isPrivate": true
+  },
+  {
+    "id": 2,
+    "title": "聊天中文",
+    "description": "一个详细翻译为中文的聊天机器人。",
+    "image": "/img/chat-chinese.png",
+    "category": "网页",
+    "tags": ["React", "NodeJS", "Firebase", "AI", "TTS"],
+    "details": "实现了一个聊天机器人，利用 Deepseek API 和 Firebase 进行实时聊天，并能详细翻译为中文。使用 NextJS、Firebase 和 TailwindCSS 开发。",
+    "link": "https://chat-chinese.vercel.app/",
+    "github": "https://github.com/BernardMora/chat-chinese",
+    "isPrivate": false
+  },
+  {
+    "id": 3,
+    "title": "墨西哥股市预测",
+    "description": "使用 LSTM 神经网络预测墨西哥股市价格的研究项目。",
+    "image": "/img/delfinProject/1-ipc-predicciones.png",
+    "category": "人工智能",
+    "tags": ["TensorFlow", "LSTM", "神经网络", "时间序列"],
+    "details": "使用长短期记忆（LSTM）神经网络预测具有混沌行为的墨西哥股市。利用 Tensorflow 构建模型，并尝试不同的超参数组合以获得最佳结果。还应用了一个预测后算法，提升了预测数据与真实数据的相似度。",
+    "link": null,
+    "github": null,
+    "isPrivate": true
+  },
+  {
+    "id": 4,
+    "title": "科技公司股价预测",
+    "description": "CS50 期末项目，使用 LSTM 神经网络预测苹果、特斯拉、谷歌和微软的股票价格。",
+    "image": "/img/cs50/3-apple-pred.png",
+    "category": "人工智能",
+    "tags": ["Python", "TensorFlow", "LSTM", "面向对象编程"],
+    "details": "使用 Tensorflow 训练 LSTM 神经网络，预测苹果、特斯拉、谷歌和微软的股票价格。使用 Python 面向对象编程开发。",
+    "link": null,
+    "github": "https://github.com/BernardMora/tech-companies-stock-prices-prediction",
+    "isPrivate": false
+  },
+  {
+    "id": 5,
+    "title": "多元多项式回归与优化",
+    "description": "从零实现模型架构、损失函数和优化算法。",
+    "image": "/img/optimizationAlgorithms/2-adagrad-dataset1.png",
+    "category": "人工智能",
+    "tags": ["Python", "机器学习", "优化", "面向对象编程"],
+    "details": "从零实现了多元多项式回归与分类模型。实现了自适应梯度下降（Adagrad）和 Levenberg-Marquardt 优化算法，包含正则化、评估指标以及预测结果可视化。使用 Python 面向对象编程。",
+    "link": null,
+    "github": "https://github.com/BernardMora/multivariate-polynomial-models-with-training",
+    "isPrivate": false
+  },
+  {
+    "id": 6,
+    "title": "太空入侵者游戏",
+    "description": "使用 SDL2 和 C++ 开发的双人太空入侵者游戏。",
+    "image": "/img/spaceInvaders/1-space-invaders.png",
+    "category": "游戏",
+    "tags": ["C++", "SDL2", "游戏开发"],
+    "details": "实现了碰撞检测、移动机制和游戏逻辑。支持双人模式。使用 SDL2 和 C++ 开发。",
+    "link": null,
+    "github": "https://github.com/BernardMora/space-invaders-game",
+    "isPrivate": false
+  },
+  {
+    "id": 7,
+    "title": "SpaceX 发射数据分析",
+    "description": "数据科学项目，分析 SpaceX 的发射数据，包括数据收集、清洗、分析、可视化与预测。",
+    "image": "/img/dataScienceCapstone/1-dashboardd.png",
+    "category": "数据",
+    "tags": ["Python", "数据科学", "机器学习", "可视化"],
+    "details": "数据收集、数据清洗、数据分析、数据可视化、模型构建与预测。使用 Python。包括完整的项目报告。",
+    "link": null,
+    "github": "https://github.com/BernardMora/Applied-Data-Science-Capstone/tree/main",
+    "isPrivate": false
+  }
+]

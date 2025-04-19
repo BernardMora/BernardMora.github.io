@@ -1,0 +1,118 @@
+{
+  "navigation": {
+    "about": "Sobre Mí",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "blog": "Blog",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "resume": "Currículum"
+  },
+  "hero": {
+    "greeting": "Hola, soy Bernardo Morales",
+    "roles": [
+      "Ingeniero de Software",
+      "Estudiante e Investigador",
+      "Solucionador de Problemas"
+    ],
+    "description": "Equilibrando la curiosidad académica con la experiencia profesional. Construyo soluciones innovadoras en la intersección de la ingeniería de software y la inteligencia artificial.",
+    "viewWork": "Ver Mi Trabajo",
+    "getInTouch": "Contactarme"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "subtitle": "",
+    "description1": "Soy un estudiante mexicano de Ingeniería en Software de 21 años, actualmente cursando el octavo semestre. Me esfuerzo por equilibrar mi formación académica con el desarrollo profesional y mis intereses emprendedores. Me considero una persona creativa, adaptable, disciplinada y con una sólida capacidad de pensamiento crítico.",
+    "description2": "Creo en el poder del aprendizaje continuo y el crecimiento, siempre buscando conocimiento de las personas increíbles que me rodean. Cada día presenta nuevas oportunidades, y me esfuerzo por reconocerlas y aprovecharlas mientras creo mi propio camino.",
+    "description3": "Mis intereses abarcan desde la ciencia y el comportamiento humano hasta la economía y la política, pero mi verdadera pasión radica en la tecnología, la inteligencia artificial, la física teórica y la filosofía.",
+    "aiEnthusiast": {
+      "title": "Entusiasta de la IA",
+      "description": "Apasionado por las redes neuronales, el aprendizaje automático y el futuro de las tecnologías de IA."
+    },
+    "softwareEngineer": {
+      "title": "Ingeniero de Software",
+      "description": "Construyendo soluciones robustas y escalables con un enfoque en arquitectura limpia y experiencia de usuario."
+    },
+    "physicsEnthusiast": {
+      "title": "Entusiasta de la Física",
+      "description": "Fascinado por nuestra comprensión de la realidad y las leyes fundamentales que gobiernan el universo."
+    },
+    "philosophicalThinker": {
+      "title": "Pensador Filosófico",
+      "description": "Explorando las preguntas más profundas sobre la existencia, el conocimiento y la ética a través del pensamiento crítico."
+    }
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "subtitle": "Una muestra de mi trabajo que abarca desarrollo web, ciencia de datos, IA y más.",
+    "all": "Todos",
+    "web": "Web",
+    "ai": "IA/ML",
+    "data": "Datos",
+    "games": "Juegos",
+    "learnMore": "Más Información",
+    "technologies": "Tecnologías",
+    "details": "Detalles",
+    "github": "GitHub",
+    "liveDemo": "Demo en Vivo",
+    "privateProject": "Proyecto Privado"
+  },
+  "skills": {
+    "title": "Habilidades y Experiencia",
+    "subtitle": "Una visión completa de mis habilidades técnicas en varios dominios.",
+    "programming": "Programación",
+    "pythonStack": "Stack de Python",
+    "web": "Web",
+    "databases": "Bases de Datos",
+    "languages": "Idiomas"
+  },
+  "education": {
+    "title": "Educación y Certificaciones",
+    "subtitle": "Mi trayectoria académica y certificaciones profesionales que han formado mi experiencia.",
+    "academicInstitutions": "Instituciones Académicas",
+    "certifications": "Certificaciones",
+    "viewCertificate": "Ver Certificado"
+  },
+  "blog": {
+    "title": "Blog y Perspectivas",
+    "subtitle": "Compartiendo mis pensamientos, investigaciones y experiencias en tecnología, software e IA.",
+    "readMore": "Leer Más",
+    "viewAllPosts": "Ver Todas las Publicaciones",
+    "searchPlaceholder": "Buscar artículos...",
+    "noPostsFound": "No se encontraron publicaciones",
+    "tryAdjusting": "Intenta ajustar tu búsqueda o criterios de filtro",
+    "clearFilters": "Limpiar filtros",
+    "featuredPosts": "Publicaciones Destacadas",
+    "relatedArticles": "Artículos Relacionados",
+    "backToHome": "Volver al Inicio",
+    "backToBlog": "Volver al Blog"
+  },
+  "testimonials": {
+    "title": "Testimonios",
+    "subtitle": "Lo que colegas, profesores y clientes dicen sobre trabajar conmigo."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes una pregunta o quieres trabajar juntos? ¡No dudes en contactarme!",
+    "contactInfo": "Información de Contacto",
+    "contactInfoDes": "Siéntete libre de contactarme a través de cualquiera de estos canales",
+    "connectWithMe": "Conéctate conmigo",
+    "sendMessage": "Envíame un Mensaje",
+    "sendMessageDes": "Te responderé lo antes posible",
+    "messageSent": "¡Mensaje enviado!",
+    "thankYou": "Gracias por contactarme. Te responderé pronto.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "yourName": "Tu nombre",
+    "yourEmail": "Tu correo electrónico",
+    "yourMessage": "Tu mensaje",
+    "sending": "Enviando...",
+    "send": "Enviar Mensaje"
+  },
+  "footer": {
+    "description": "Ingeniero de Software y aprendiz perpetuo en la intersección de la tecnología y la innovación.",
+    "rights": "Todos los derechos reservados."
+  }
+}

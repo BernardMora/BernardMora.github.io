@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "Sistema IronWine Cellars",
+    "description": "Aplicación web para gestionar los procesos empresariales de la compañía IronWine Cellars.",
+    "image": "/img/iwc/1-ironwine-system.png",
+    "category": "web",
+    "tags": ["React", "Flask", "PostgreSQL", "Docker"],
+    "details": "Sistema creado para satisfacer las necesidades empresariales de la compañía IronWine Cellars. Gestión de cotizaciones de clientes, pedidos y manejo de datos.\nDiseñado con Figma. Frontend: React, Bootstrap, TailwindCSS. Backend: Flask, Python POO. Base de datos: PostgreSQL. Despliegue: Servidor en la nube Ubuntu (Vultr), Contenerizado con Docker, protocolo HTTPS con Nginx.",
+    "link": null,
+    "github": null,
+    "isPrivate": true
+  },
+  {
+    "id": 2,
+    "title": "Chat Chinese",
+    "description": "Chatbot para traducir detalladamente al chino.",
+    "image": "/img/chat-chinese.png",
+    "category": "web",
+    "tags": ["React", "NodeJS", "Firebase", "IA", "TTS"],
+    "details": "Implementación de un chatbot para traducir detalladamente al chino usando la API de Deepseek y Firebase para chat en tiempo real. Desarrollado con NextJS, Firebase y TailwindCSS.",
+    "link": "https://chat-chinese.vercel.app/",
+    "github": "https://github.com/BernardMora/chat-chinese",
+    "isPrivate": false
+  },
+  {
+    "id": 3,
+    "title": "Predicción del Mercado Bursátil Mexicano",
+    "description": "Proyecto de investigación utilizando redes neuronales LSTM para predecir precios del mercado bursátil mexicano.",
+    "image": "/img/delfinProject/1-ipc-predicciones.png",
+    "category": "ia",
+    "tags": ["TensorFlow", "LSTM", "Redes Neuronales", "Series Temporales"],
+    "details": "Se utilizó una red neuronal de memoria a largo y corto plazo (LSTM) para predecir el comportamiento caótico del mercado bursátil mexicano. Modelo construido con Tensorflow y prueba de diferentes hiperparámetros para obtener mejores resultados. Se aplicó un algoritmo post-predicción para mejorar la similitud entre los datos predichos y los reales.",
+    "link": null,
+    "github": null,
+    "isPrivate": true
+  },
+  {
+    "id": 4,
+    "title": "Predicción de Precios de Acciones de Empresas Tecnológicas",
+    "description": "Proyecto final de CS50 utilizando redes neuronales LSTM para predecir precios de acciones de Apple, Tesla, Google y Microsoft.",
+    "image": "/img/cs50/3-apple-pred.png",
+    "category": "ia",
+    "tags": ["Python", "TensorFlow", "LSTM", "POO"],
+    "details": "Entrenamiento de una red neuronal LSTM con Tensorflow para predecir precios de acciones de Apple, Tesla, Google y Microsoft. Desarrollado con Python y programación orientada a objetos.",
+    "link": null,
+    "github": "https://github.com/BernardMora/tech-companies-stock-prices-prediction",
+    "isPrivate": false
+  },
+  {
+    "id": 5,
+    "title": "Regresión Polinomial Multivariada y Optimización",
+    "description": "Implementación desde cero de arquitectura de modelo, función de pérdida y algoritmos de optimización.",
+    "image": "/img/optimizationAlgorithms/2-adagrad-dataset1.png",
+    "category": "ia",
+    "tags": ["Python", "Aprendizaje Automático", "Optimización", "POO"],
+    "details": "Implementación desde cero de modelos de regresión polinomial multivariada y clasificación. Implementación de algoritmos de optimización Gradiente Adaptativo y Levenberg-Marquardt, regularización, métricas de evaluación para ambos modelos y visualización de predicciones. Desarrollado con Python POO.",
+    "link": null,
+    "github": "https://github.com/BernardMora/multivariate-polynomial-models-with-training",
+    "isPrivate": false
+  },
+  {
+    "id": 6,
+    "title": "Juego Space Invaders",
+    "description": "Videojuego de Space Invaders para dos jugadores desarrollado con SDL2 y C++.",
+    "image": "/img/spaceInvaders/1-space-invaders.png",
+    "category": "juego",
+    "tags": ["C++", "SDL2", "Desarrollo de Videojuegos"],
+    "details": "Implementación de colisiones, movimientos y lógica del juego. Modo para dos jugadores. Desarrollado con SDL2 y C++.",
+    "link": null,
+    "github": "https://github.com/BernardMora/space-invaders-game",
+    "isPrivate": false
+  },
+  {
+    "id": 7,
+    "title": "Análisis de Datos de Lanzamientos de SpaceX",
+    "description": "Proyecto de ciencia de datos analizando los datos de lanzamientos de SpaceX con recolección, limpieza, análisis, visualización y predicción de datos.",
+    "image": "/img/dataScienceCapstone/1-dashboardd.png",
+    "category": "datos",
+    "tags": [
+      "Python",
+      "Ciencia de Datos",
+      "Aprendizaje Automático",
+      "Visualización"
+    ],
+    "details": "Recolección de datos, limpieza de datos, análisis, visualización, construcción de modelos y predicción. Python. Incluye informe detallado.",
+    "link": null,
+    "github": "https://github.com/BernardMora/Applied-Data-Science-Capstone/tree/main",
+    "isPrivate": false
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "filename": "Why We Need Better Tech Education for Everyone",
+    "title": "Por Qué Necesitamos una Mejor Educación Tecnológica para Todos",
+    "excerpt": "La tecnología evoluciona rápidamente, pero nuestra comprensión de ella no avanza al mismo ritmo. En este artículo, Bernardo Morales Ramos argumenta sobre la urgente necesidad de hacer que la educación tecnológica sea más accesible, para que todos puedan entender cómo herramientas como las redes sociales y la inteligencia artificial moldean — y a veces manipulan — nuestras vidas.",
+    "image": "/img/blog/education-in-technology/cover-image.png?height=300&width=600",
+    "date": "Jueves 17, 2025",
+    "readTime": "4 min de lectura",
+    "category": "Tecnología y Sociedad",
+    "slug": "better-tech-education-for-everyone",
+    "featured": false,
+    "content": "Por Qué Necesitamos una Mejor Educación Tecnológica para Todos.txt",
+    "author": {
+      "name": "Bernardo Morales",
+      "image": "/img/bernardo.png",
+      "bio": "Ingeniero en Software, dueño de una agencia de IA, y aprendiz perpetuo en la intersección entre tecnología e innovación."
+    },
+    "relatedPosts": []
+  }
+]

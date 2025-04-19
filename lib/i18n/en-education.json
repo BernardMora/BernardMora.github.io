@@ -1,0 +1,56 @@
+{
+  "institutions": [
+    {
+      "name": "Universidad Autónoma de Baja California (UABC)",
+      "logo": "/img/education/uabc_logo.avif",
+      "image": "/img/education/uabc.jpeg",
+      "description": "Studied all 6 semesters of my Software Engineering career, learning fundamental concepts of engineering, algorithms, data structures, software development life cycle, and agile methodologies like SCRUM.",
+      "period": "2021 - Present"
+    },
+    {
+      "name": "Centro de Investigación en Computación del IPN (CIC IPN)",
+      "logo": "/img/education/cic_logo.png",
+      "image": "/img/education/cic.png",
+      "description": "Completed a research internship focusing on Quantum Computing and the training and testing of a Long-Short-Term-Memory Neural Network for forecasting the Mexican Stock Market as chaotic-labeled data.",
+      "period": "Summer 2023"
+    },
+    {
+      "name": "University of Miami (UM)",
+      "logo": "/img/education/um_logo.png",
+      "image": "/img/education/um.jpeg",
+      "description": "I studied the 7th semester of my Software Engineering degree as an exchange student, focusing on Software Engineering, Machine Learning, Neural Networks, and Algorithms.",
+      "period": "Aug 2024 - Dec 2024"
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "CS50x Introduction to Computer Science",
+      "organization": "Harvard University",
+      "logo": "/img/certifications/harvard_logo.png",
+      "description": "Introduction to Computer Science's main concepts, covering: Algorithms, Data Structures, C, Python, SQL, Web Development, and more.",
+      "file": "/files/CS50x.pdf"
+    },
+    {
+      "name": "Data Science Professional Certificate",
+      "organization": "IBM",
+      "logo": "/img/certifications/ibm_logo.png",
+      "description": "Data Science main topics, covering: Python for Data Science, Data Analysis, Data Visualization, Machine Learning, Databases for Data Science.",
+      "file": "/files/IBM_Data_Science.pdf"
+    },
+    {
+      "name": "Qiskit Global Summer School 2023",
+      "organization": "IBM Quantum",
+      "logo": "/img/certifications/qiskit_logo.jpg",
+      "description": "Introduction to Quantum Computing's main concepts and implementation of circuits and algorithms with Qiskit.",
+      "file": "/files/Qiskit_Global_Summer_School.pdf"
+    },
+    {
+      "name": "XXVIII Verano de la Investigación Científica y Tecnológica del Pacífico",
+      "organization": "Programa Delfín",
+      "logo": "/img/certifications/delfin_logo.png",
+      "description": "Research internship focused on Quantum Computing and LSTM for Mexican Stock Market forecast.",
+      "file": "/files/Constancia_Delfin.pdf"
+    }
+  ]
+}

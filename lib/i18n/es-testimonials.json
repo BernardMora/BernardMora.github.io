@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Mauricio Sánchez Herrera",
+    "role": "Investigador y Profesor, Facultad de Ingeniería UABC",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "El recomendador, un profesor que ha conocido y enseñado a Bernardo durante varios años, elogia su curiosidad, confiabilidad y motivación por superar las expectativas tanto en clase como en proyectos extracurriculares. Bernardo busca activamente oportunidades adicionales como intercambios internacionales y es altamente recomendado para cualquier desafío debido a su dedicación constante y su impulso por ir más allá."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Francisco Hoffman",
+    "role": "Investigador y Profesor, Facultad de Ingeniería UABC",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "Tiene experiencia internacional por un semestre en la Universidad de Miami, sólidas habilidades técnicas y de programación, y experiencia en investigación utilizando redes neuronales para la predicción del mercado de valores. Actualmente trabaja en un proyecto de automatización de análisis de ADN. Además de sus habilidades técnicas, también se destaca por su liderazgo, trabajo en equipo y habilidades sociales."
+  },
+  {
+    "id": 3,
+    "name": "Omar Alejandro Pérez",
+    "role": "Estudiante, Universidad Politécnica de Victoria",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "Bernardo fue un colaborador clave en un proyecto de investigación sobre computación cuántica en el CIC-IPN, destacándose en la formulación matemática y la comunicación clara de ideas. También amplió la red del equipo a través de JA México. Actualmente estudia en la Universidad de Miami, y se espera que tenga éxito continuo en sus estudios de posgrado gracias a su pasión y habilidades técnicas."
+  }
+]

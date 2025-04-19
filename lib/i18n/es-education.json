@@ -1,0 +1,56 @@
+{
+  "institutions": [
+    {
+      "name": "Universidad Autónoma de Baja California (UABC)",
+      "logo": "/img/education/uabc_logo.avif",
+      "image": "/img/education/uabc.jpeg",
+      "description": "Estudié los 6 semestres de mi carrera en Ingeniería de Software, aprendiendo conceptos fundamentales de ingeniería, algoritmos, estructuras de datos, ciclo de vida del desarrollo de software y metodologías ágiles como SCRUM.",
+      "period": "2021 - Presente"
+    },
+    {
+      "name": "Centro de Investigación en Computación del IPN (CIC IPN)",
+      "logo": "/img/education/cic_logo.png",
+      "image": "/img/education/cic.png",
+      "description": "Realicé una estancia de investigación enfocada en Computación Cuántica y en el entrenamiento y prueba de una Red Neuronal LSTM para predecir el mercado bursátil mexicano como datos etiquetados caóticos.",
+      "period": "Verano 2023"
+    },
+    {
+      "name": "University of Miami (UM)",
+      "logo": "/img/education/um_logo.png",
+      "image": "/img/education/um.jpeg",
+      "description": "Estudié el séptimo semestre de mi carrera de Ingeniería de Software como estudiante de intercambio, con enfoque en Ingeniería de Software, Aprendizaje Automático, Redes Neuronales y Algoritmos.",
+      "period": "Ago 2024 - Dic 2024"
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "CS50x Introducción a la Ciencia de la Computación",
+      "organization": "Universidad de Harvard",
+      "logo": "/img/certifications/harvard_logo.png",
+      "description": "Introducción a los conceptos principales de la Ciencia de la Computación, cubriendo: algoritmos, estructuras de datos, C, Python, SQL, desarrollo web, y más.",
+      "file": "/files/CS50x.pdf"
+    },
+    {
+      "name": "Certificado Profesional en Ciencia de Datos",
+      "organization": "IBM",
+      "logo": "/img/certifications/ibm_logo.png",
+      "description": "Temas principales de Ciencia de Datos, incluyendo: Python para Ciencia de Datos, análisis de datos, visualización de datos, aprendizaje automático, bases de datos para ciencia de datos.",
+      "file": "/files/IBM_Data_Science.pdf"
+    },
+    {
+      "name": "Qiskit Global Summer School 2023",
+      "organization": "IBM Quantum",
+      "logo": "/img/certifications/qiskit_logo.jpg",
+      "description": "Introducción a los conceptos principales de la Computación Cuántica e implementación de circuitos y algoritmos con Qiskit.",
+      "file": "/files/Qiskit_Global_Summer_School.pdf"
+    },
+    {
+      "name": "XXVIII Verano de la Investigación Científica y Tecnológica del Pacífico",
+      "organization": "Programa Delfín",
+      "logo": "/img/certifications/delfin_logo.png",
+      "description": "Estancia de investigación enfocada en Computación Cuántica y redes LSTM para predicción del mercado bursátil mexicano.",
+      "file": "/files/Constancia_Delfin.pdf"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "navigation": {
+    "about": "About Me",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "blog": "Blog",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Bernardo Morales",
+    "roles": ["Software Engineer", "Student & Researcher", "Problem Solver"],
+    "description": "Balancing academic curiosity with professional expertise. I build innovative solutions at the intersection of software engineering and artificial intelligence.",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "",
+    "description1": "I’m a 21-year-old Mexican Software Engineering student currently in my 8th semester. I strive to balance my academic journey with professional development and entrepreneurial interests. I consider myself a creative, adaptable, and disciplined individual with strong critical thinking skills.",
+    "description2": "I believe in the power of continuous learning and growth, always seeking knowledge from the incredible people around me. Every day presents new opportunities, and I strive to recognize and seize them while creating my own path forward.",
+    "description3": "My interests span from science and human behavior to economics and politics, but my true passion lies in technology, artificial intelligence, theoretical physics, and philosophy.",
+    "aiEnthusiast": {
+      "title": "AI Enthusiast",
+      "description": "Passionate about neural networks, machine learning, and the future of AI technologies."
+    },
+    "softwareEngineer": {
+      "title": "Software Engineer",
+      "description": "Building robust, scalable solutions with a focus on clean architecture and user experience."
+    },
+    "physicsEnthusiast": {
+      "title": "Physics Enthusiast",
+      "description": "Fascinated by our understanding of reality and the fundamental laws that govern the universe."
+    },
+    "philosophicalThinker": {
+      "title": "Philosophical Thinker",
+      "description": "Exploring the deeper questions of existence, knowledge, and ethics through critical thinking."
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "A showcase of my work spanning web development, data science, AI, and more.",
+    "all": "All",
+    "web": "Web",
+    "ai": "AI/ML",
+    "data": "Data",
+    "games": "Games",
+    "learnMore": "Learn More",
+    "technologies": "Technologies",
+    "details": "Details",
+    "github": "GitHub",
+    "liveDemo": "Live Demo",
+    "privateProject": "Private Project"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "A comprehensive overview of my technical skills across various domains.",
+    "programming": "Programming",
+    "pythonStack": "Python Stack",
+    "web": "Web",
+    "databases": "Databases",
+    "languages": "Languages"
+  },
+  "education": {
+    "title": "Education & Certifications",
+    "subtitle": "My academic journey and professional certifications that have shaped my expertise.",
+    "academicInstitutions": "Academic Institutions",
+    "certifications": "Certifications",
+    "viewCertificate": "View Certificate"
+  },
+  "blog": {
+    "title": "Blog & Insights",
+    "subtitle": "Sharing my thoughts, research, and experiences in technology, software and AI.",
+    "readMore": "Read More",
+    "viewAllPosts": "View All Posts",
+    "searchPlaceholder": "Search articles...",
+    "noPostsFound": "No posts found",
+    "tryAdjusting": "Try adjusting your search or filter criteria",
+    "clearFilters": "Clear filters",
+    "featuredPosts": "Featured Posts",
+    "relatedArticles": "Related Articles",
+    "backToHome": "Back to Home",
+    "backToBlog": "Back to Blog"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What colleagues, professors, and clients have to say about working with me."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a question or want to work together? Feel free to reach out!",
+    "contactInfo": "Contact Information",
+    "contactInfoDes": "Feel free to reach out through any of these channels",
+    "connectWithMe": "Connect with me",
+    "sendMessage": "Send Me a Message",
+    "sendMessageDes": "I'll get back to you as soon as possible",
+    "messageSent": "Message sent!",
+    "thankYou": "Thank you for reaching out. I'll get back to you soon.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "yourName": "Your name",
+    "yourEmail": "Your email address",
+    "yourMessage": "Your message",
+    "sending": "Sending...",
+    "send": "Send Message"
+  },
+  "footer": {
+    "description": "Software Engineer and perpetual learner at the intersection of technology and innovation.",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "filename": "Why We Need Better Tech Education for Everyone",
+    "title": "为什么我们需要更好的全民科技教育",
+    "excerpt": "科技正在迅速发展，但我们的理解却跟不上节奏。在本文中，Bernardo Morales Ramos 强调了普及科技教育的紧迫性，让每个人都能了解社交媒体和人工智能等工具是如何塑造——甚至操控——我们的生活的。",
+    "image": "/img/blog/education-in-technology/cover-image.png?height=300&width=600",
+    "date": "2025年4月17日 星期四",
+    "readTime": "阅读时间：4 分钟",
+    "category": "科技与社会",
+    "slug": "better-tech-education-for-everyone",
+    "featured": false,
+    "content": "为什么我们需要更好的全民科技教育.txt",
+    "author": {
+      "name": "Bernardo Morales",
+      "image": "/img/bernardo.png",
+      "bio": "软件工程师、AI 公司创办人，以及在科技与创新交汇处不断学习的探索者。"
+    },
+    "relatedPosts": []
+  }
+]

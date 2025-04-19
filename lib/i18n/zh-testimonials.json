@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Mauricio Sánchez Herrera",
+    "role": "研究员兼教授，UABC 工程学院",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "推荐人是一位多年来认识并教授过 Bernardo 的老师，他称赞 Bernardo 的好奇心、可靠性以及在课堂和课外项目中超越期望的积极态度。Bernardo 积极寻求额外机会，如国际交流项目。他因始终如一的投入和不断进取的精神而被强烈推荐应对任何挑战。"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Francisco Hoffman",
+    "role": "研究员兼教授，UABC 工程学院",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "他曾在迈阿密大学交流学习一个学期，具备扎实的技术和编程能力，并在使用神经网络进行股市预测方面具有研究经验。目前他正参与一个 DNA 分析自动化项目。除了技术能力外，他还因其领导能力、团队协作精神和社交能力而受到认可。"
+  },
+  {
+    "id": 3,
+    "name": "Omar Alejandro Pérez",
+    "role": "学生，维多利亚理工大学",
+    "image": "/placeholder.svg?height=100&width=100",
+    "quote": "Bernardo 是 CIC-IPN 的一个量子计算研究项目中的关键成员，擅长数学建模并能清晰地表达自己的想法。他还通过 JA Mexico 扩展了团队的合作网络。如今他正在迈阿密大学就读，凭借他的热情和技术能力，有望在研究生阶段取得持续的成功。"
+  }
+]

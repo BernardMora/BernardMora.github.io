@@ -1,0 +1,56 @@
+{
+  "institutions": [
+    {
+      "name": "下加利福尼亚自治大学（UABC）",
+      "logo": "/img/education/uabc_logo.avif",
+      "image": "/img/education/uabc.jpeg",
+      "description": "在我的软件工程专业中完成了6个学期的学习，掌握了工程、算法、数据结构、软件开发生命周期和敏捷开发方法（如SCRUM）的基本概念。",
+      "period": "2021年 - 至今"
+    },
+    {
+      "name": "国立理工学院计算研究中心（CIC IPN）",
+      "logo": "/img/education/cic_logo.png",
+      "image": "/img/education/cic.png",
+      "description": "完成了一项关于量子计算的研究实习，并使用LSTM神经网络对被视为混沌的数据（墨西哥股市）进行训练与测试。",
+      "period": "2023年夏季"
+    },
+    {
+      "name": "迈阿密大学（UM）",
+      "logo": "/img/education/um_logo.png",
+      "image": "/img/education/um.jpeg",
+      "description": "作为交换学生学习软件工程专业第七学期，重点学习了软件工程、机器学习、神经网络和算法。",
+      "period": "2024年8月 - 2024年12月"
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "CS50x 计算机科学导论",
+      "organization": "哈佛大学",
+      "logo": "/img/certifications/harvard_logo.png",
+      "description": "计算机科学的主要概念入门，涵盖：算法、数据结构、C语言、Python、SQL、网页开发等内容。",
+      "file": "/files/CS50x.pdf"
+    },
+    {
+      "name": "数据科学专业证书",
+      "organization": "IBM",
+      "logo": "/img/certifications/ibm_logo.png",
+      "description": "数据科学的核心主题，包括：Python编程、数据分析、数据可视化、机器学习、数据科学数据库。",
+      "file": "/files/IBM_Data_Science.pdf"
+    },
+    {
+      "name": "Qiskit 2023全球暑期学校",
+      "organization": "IBM量子",
+      "logo": "/img/certifications/qiskit_logo.jpg",
+      "description": "量子计算的基本概念及使用Qiskit实现量子电路和算法的介绍。",
+      "file": "/files/Qiskit_Global_Summer_School.pdf"
+    },
+    {
+      "name": "第28届太平洋地区科学与技术研究夏令营",
+      "organization": "Delfín项目",
+      "logo": "/img/certifications/delfin_logo.png",
+      "description": "研究实习，重点在于量子计算和使用LSTM模型预测墨西哥股市。",
+      "file": "/files/Constancia_Delfin.pdf"
+    }
+  ]
+}
