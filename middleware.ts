@@ -30,14 +30,22 @@ export function middleware(request: NextRequest) {
 
   const pathname = request.nextUrl.pathname
 
+  // Get the base path from the environment or use an empty string
+  const basePath = process.env.NODE_ENV === "production" ? "/BernardMoragithubiocopy" : ""
+
+  // Remove the base path from the pathname for locale detection
+  const pathnameWithoutBase = pathname.replace(basePath, "")
+
   // Check if there is any supported locale in the pathname
-  const pathnameHasLocale = locales.some((locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`)
+  const pathnameHasLocale = locales.some(
+    (locale) => pathnameWithoutBase.startsWith(`/${locale}/`) || pathnameWithoutBase === `/${locale}`,
+  )
 
   if (pathnameHasLocale) return
 
   // Redirect if there is no locale
   const locale = getLocale(request)
-  request.nextUrl.pathname = `/${locale}${pathname}`
+  request.nextUrl.pathname = `${basePath}/${locale}${pathnameWithoutBase}`
 
   return NextResponse.redirect(request.nextUrl)
 }

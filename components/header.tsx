@@ -5,8 +5,7 @@ import { Button } from "@/components/ui/button";
 import { ModeToggle } from "./mode-toggle";
 import { LanguageSwitcher } from "./language-switcher";
 import { Menu, X } from "lucide-react";
-import Link from "next/link";
-import Image from "next/image";
+import CustomLink from "./custom-link";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
 
 export default function Header({
@@ -65,20 +64,20 @@ export default function Header({
       }`}
     >
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
-        <Link href={`/${lang}`} className="text-xl font-bold">
+        <CustomLink href={`/${lang}`} className="text-xl font-bold">
           Bernardo<span className="text-primary">Morales</span>
-        </Link>
+        </CustomLink>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-6">
           {navLinks.map((link) => (
-            <Link
+            <CustomLink
               key={link.href}
               href={link.href}
               className="text-sm font-medium hover:text-primary transition-colors"
             >
               {link.label}
-            </Link>
+            </CustomLink>
           ))}
           <Button
             onClick={() =>
@@ -112,14 +111,14 @@ export default function Header({
         <div className="md:hidden bg-background/95 backdrop-blur-md">
           <div className="container mx-auto px-4 py-4 flex flex-col space-y-4">
             {navLinks.map((link) => (
-              <Link
+              <CustomLink
                 key={link.href}
                 href={link.href}
                 className="text-sm font-medium py-2 hover:text-primary transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 {link.label}
-              </Link>
+              </CustomLink>
             ))}
             <Button
               onClick={handleDownload}

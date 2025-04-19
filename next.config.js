@@ -11,13 +11,14 @@ const nextConfig = {
   images: {
     unoptimized: true, // Required for static export
   },
-  // Disable server-only features for static export
-  experimental: {
-    // Remove any experimental features that require a server
-  },
-  // Ensure trailing slashes for better static hosting compatibility
   trailingSlash: true,
-  basePath: "BernardMora.github.io",
+  // Configure for GitHub Pages
+  // The basePath should match your repository name
+  // For example, if your repo is "username.github.io/portfolio", use "/portfolio"
+  basePath:
+    process.env.NODE_ENV === "production" ? "/BernardMora.github.io" : "",
+  assetPrefix:
+    process.env.NODE_ENV === "production" ? "/BernardMora.github.io/" : "",
 };
 
 module.exports = nextConfig;
