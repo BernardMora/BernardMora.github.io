@@ -39,12 +39,12 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: List out folder contents
-        run: ls -la /out
+        run: ls -la ./out
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          path: out
+          path: ./out
 
   deploy:
     environment:
