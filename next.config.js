@@ -15,10 +15,12 @@ const nextConfig = {
   // Configure for GitHub Pages
   // The basePath should match your repository name
   // For example, if your repo is "username.github.io/portfolio", use "/portfolio"
-  basePath:
-    process.env.NODE_ENV === "production" ? "/BernardMora.github.io" : "",
-  assetPrefix:
-    process.env.NODE_ENV === "production" ? "/BernardMora.github.io/" : "",
+  basePath: process.env.NODE_ENV === "production" ? "" : "",
+  assetPrefix: process.env.NODE_ENV === "production" ? "" : "",
+  // Ensure CSS is properly processed
+  webpack: (config) => {
+    return config;
+  },
 };
 
 module.exports = nextConfig;
